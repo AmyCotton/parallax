@@ -1,0 +1,41 @@
+.parallax-window {
+    min-height: 700px;
+    background: transparent;
+}
+
+.parallax-container {
+    height: 800px;
+    width: 100%;
+}
+
+
+.container {
+    position: relative;
+    text-align: center;
+}
+
+img.title { 
+    width: 100%;
+    height: auto;
+    padding: 30px;
+}
+
+img.email { 
+    width: 70%;
+    height: auto;
+    padding: 30px;
+    padding-top: 130px;
+}
+
+img.phone { 
+    width: 45%;
+    height: auto;
+    padding: 30px;
+}
+
+img.linkedin { 
+    width: 20%;
+    height: auto;
+    padding: 80px;
+    padding-top: 50px;
+}
